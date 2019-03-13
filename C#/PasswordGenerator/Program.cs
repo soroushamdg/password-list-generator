@@ -22,7 +22,6 @@ namespace PasswordGenerator
         public static double number = 0;
         public static int[] a = { 9999 };
         public static string mydocpath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-        public static string passess = "soroush-rojin-aria-leila-amir";
 
         static int[] counter(int _r1, int[] list)
         {
